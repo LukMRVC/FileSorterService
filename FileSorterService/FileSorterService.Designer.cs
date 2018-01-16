@@ -1,6 +1,6 @@
 ﻿namespace FileSorterService
 {
-    partial class Service1
+    partial class FileSorterService
     {
         /// <summary> 
         /// Required designer variable.
@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            // 
+            // FileSorterService
+            // 
+            this.ServiceName = "FileSorterService";
+
         }
 
         #endregion

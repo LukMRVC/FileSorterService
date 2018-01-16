@@ -14,12 +14,19 @@ namespace FileSorterService
         /// </summary>
         static void Main()
         {
+
+#if DEBUG
+            FileSorterService sorterService = new FileSorterService();
+            sorterService.DebugStart();
+            System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
+#else
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new FileSorterService()
             };
             ServiceBase.Run(ServicesToRun);
+#endif
         }
     }
 }
