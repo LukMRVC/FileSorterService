@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSorter", "FileSorterService\FileSorter.csproj", "{829DAE87-6C91-464E-97D6-BAFD2199FA71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSorterOptions", "..\FileSorterOptions\FileSorterOptions\FileSorterOptions.csproj", "{A0324E86-16B8-4471-ABA9-07B825992F94}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "File Sorter Setup", "File Sorter Setup\File Sorter Setup.vdproj", "{1EE882E8-C0C7-46CC-BB64-57671A464BBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,12 @@ Global
 		{829DAE87-6C91-464E-97D6-BAFD2199FA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{829DAE87-6C91-464E-97D6-BAFD2199FA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{829DAE87-6C91-464E-97D6-BAFD2199FA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0324E86-16B8-4471-ABA9-07B825992F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0324E86-16B8-4471-ABA9-07B825992F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0324E86-16B8-4471-ABA9-07B825992F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0324E86-16B8-4471-ABA9-07B825992F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE882E8-C0C7-46CC-BB64-57671A464BBA}.Debug|Any CPU.ActiveCfg = Debug
+		{1EE882E8-C0C7-46CC-BB64-57671A464BBA}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
