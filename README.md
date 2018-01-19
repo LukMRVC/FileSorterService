@@ -1,5 +1,6 @@
 # File Sorter
-Service that watches downloads folders and connected with FileSorterOptions, sorts downloaded files to according destination folders
+Service that watches downloads folders and connected with FileSorterOptions, sorts downloaded files to according destination folders.
+This is a windows service/WPF Project that is only Windows compatible.
 ## This project consists of 2 parts:
 ### File Sorter Serivce
 A service that watches the downloads folder a sortes files into directories, 
