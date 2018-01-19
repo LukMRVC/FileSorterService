@@ -1,0 +1,21 @@
+﻿Instalace sestavení C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.exe
+Zasažené parametry:
+   logtoconsole = 
+   logfile = C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.InstallLog
+   assemblypath = C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.exe
+Instalace služby FileSorterService...
+Služba FileSorterService byla úspěšně nainstalována.
+Vytváření zdroje EventLog FileSorterService v protokolu Application...
+Potvrzování sestavení C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.exe
+Zasažené parametry:
+   logtoconsole = 
+   logfile = C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.InstallLog
+   assemblypath = C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.exe
+Odinstalace sestavení C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.exe
+Zasažené parametry:
+   logtoconsole = 
+   logfile = C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.InstallLog
+   assemblypath = C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.exe
+Odebírání zdroje EventLog FileSorterService
+Odebírání služby FileSorterService ze systému...
+Služba FileSorterService byla úspěšně odebrána ze systému.

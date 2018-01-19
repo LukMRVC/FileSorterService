@@ -1,0 +1,21 @@
+﻿
+Spouštění instalace s podporou transakcí
+
+Zahajování instalační fáze instalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.exe.
+Umístění souboru: C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.InstallLog
+
+Instalační fáze byla úspěšně dokončena a začíná potvrzovací fáze.
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.exe.
+Umístění souboru: C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.InstallLog
+
+Potvrzovací fáze byla úspěšně dokončena.
+
+Instalace s podporou transakcí byla dokončena.
+
+
+Zahajování odinstalace
+Prohlédněte si obsah souboru protokolu pro průběh sestavení C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.exe.
+Umístění souboru: C:\Users\Lukas\Documents\Visual Studio 2017\Projects\FileSorterService\FileSorterService\bin\Release\FileSorterService.InstallLog
+
+Odinstalace byla dokončena.
