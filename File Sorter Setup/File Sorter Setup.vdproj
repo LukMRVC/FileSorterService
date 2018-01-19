@@ -21,6 +21,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_620405CC64AD48538E89CC646E134C0C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_6DC3A24C2CBCA2C9DCFEE56EC1D705FD"
         "OwnerKey" = "8:_182175CD181641F3B3FD31688699E73F"
         "MsmSig" = "8:_UNDEFINED"
@@ -104,6 +110,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
         "Release"
@@ -128,6 +142,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
     }
@@ -214,6 +236,26 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_620405CC64AD48538E89CC646E134C0C"
+            {
+            "SourcePath" = "8:..\\file_sorter_icon.ico"
+            "TargetName" = "8:file_sorter_icon.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_2AA808F2007849878181F8F907E53774"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6DC3A24C2CBCA2C9DCFEE56EC1D705FD"
             {
             "AssemblyRegister" = "3:1"
@@ -364,7 +406,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:File Sorter"
         "ProductCode" = "8:{0A9784B7-03E1-4CC3-B3B9-EFE520D3F8EC}"
-        "PackageCode" = "8:{34EC2939-4A5F-49B7-B93D-D17E95DC3FD6}"
+        "PackageCode" = "8:{0436557A-AE92-43B5-B16A-1F33C3DC2D91}"
         "UpgradeCode" = "8:{67954CC2-A829-4B63-A2B2-03AC42298010}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -484,6 +526,20 @@
         }
         "Shortcut"
         {
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_594FA9E3F0E244C5818808A1127358F4"
+            {
+            "Name" = "8:File Sorter"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_D326777E41664FE688E6EDA78B00D758"
+            "Folder" = "8:_A2A8C58BEB67440E9C957281D347BC7A"
+            "WorkingFolder" = "8:_2AA808F2007849878181F8F907E53774"
+            "Icon" = "8:_620405CC64AD48538E89CC646E134C0C"
+            "Feature" = "8:"
+            }
         }
         "UserInterface"
         {
