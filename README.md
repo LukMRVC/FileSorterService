@@ -1,6 +1,7 @@
 # File Sorter
 Service that watches downloads folders and connected with FileSorterOptions, sorts downloaded files to according destination folders.
 This is a windows service/WPF Project that is only Windows compatible.
+
 You can download [.exe setup here](https://github.com/LukMRVC/FileSorterService/blob/master/File%20Sorter%20Setup/Release/setup.exe?raw=true) or [msi setup here.](https://github.com/LukMRVC/FileSorterService/blob/master/File%20Sorter%20Setup/Release/File%20Sorter%20Setup.msi?raw=true)
 ## This project consists of 2 parts:
 ### File Sorter Serivce
